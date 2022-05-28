@@ -304,10 +304,6 @@ footer .container{
     #end button{
         font-size: 2em;
     }
-
-    footer .container{
-        align-items: ;
-    }
 }
 
 @media (min-width: 1200px){
